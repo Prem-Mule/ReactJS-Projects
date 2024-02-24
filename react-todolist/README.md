@@ -4,7 +4,7 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 ## Description
 
-This is a Next.js project bootstrapped with `create-next-app`, providing a foundation for building web applications. It includes automatic optimization and loading of the Inter font using `next/font`.
+This is a Next.js project bootstrapped with `create-next-app`, providing a foundation for building web applications. It includes automatic optimization and loading of the Inter font using `next/font`.Todo List App: A simple React-based todo list application that allows users to add, delete, and manage tasks with titles and descriptions. Built using React hooks and styled with Tailwind CSS.
 
 ## Getting Started
 
