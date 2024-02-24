@@ -20,7 +20,7 @@ This repository contains a collection of projects developed using ReactJS.
 
 To run these projects locally, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/your-username/react-projects.git`
+1. Clone the repository: `git clone https://github.com/Prem-Mule/react-projects.git`
 2. Install dependencies: `npm install`
 3. Start the development server: `npm start`
 
